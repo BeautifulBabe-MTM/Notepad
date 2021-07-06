@@ -202,6 +202,8 @@ namespace WindowsFormsApp19
             {
                 if (dialog.ShowDialog() == DialogResult.OK)
                     this.textBox1.BackColor = dialog.Color;
+                if (this.textBox1.BackColor == Color.Black)
+                    this.textBox1.ForeColor = Color.White;
             }
         }
 
