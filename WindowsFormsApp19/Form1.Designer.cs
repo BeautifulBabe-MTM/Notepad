@@ -58,7 +58,7 @@ namespace WindowsFormsApp19
             this.SuspendLayout();
             // 
             // textBox1
-            // 
+            ///
             resources.ApplyResources(this.textBox1, "textBox1");
             this.textBox1.Name = "textBox1";
             // 
