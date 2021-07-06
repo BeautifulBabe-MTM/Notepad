@@ -117,42 +117,42 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="saveFileToolStripMenuItem.Text" xml:space="preserve">
+    <value>保存存檔</value>
+  </data>
+  <data name="openFileToolStripMenuItem.Text" xml:space="preserve">
+    <value>打開文件</value>
+  </data>
+  <data name="closeAppToolStripMenuItem.Text" xml:space="preserve">
+    <value>關閉應用</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>55, 20</value>
+    <value>58, 20</value>
   </data>
   <data name="toolStripMenuItem1.Text" xml:space="preserve">
     <value>新文件</value>
   </data>
   <data name="clearToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>43, 20</value>
+    <value>45, 20</value>
   </data>
   <data name="clearToolStripMenuItem.Text" xml:space="preserve">
     <value>清除</value>
   </data>
   <data name="colorToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>43, 20</value>
+    <value>45, 20</value>
   </data>
   <data name="colorToolStripMenuItem.Text" xml:space="preserve">
     <value>顏色</value>
   </data>
+  <data name="fontToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 20</value>
+  </data>
   <data name="fontToolStripMenuItem.Text" xml:space="preserve">
     <value>字體</value>
   </data>
-  <data name="deDEToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>106, 22</value>
-  </data>
-  <data name="ruToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>106, 22</value>
-  </data>
-  <data name="toolStripMenuItem4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>106, 22</value>
-  </data>
-  <data name="zhToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>106, 22</value>
-  </data>
   <data name="toolStripMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>31, 20</value>
+    <value>32, 20</value>
   </data>
   <data name="toolStripMenuItem2.Text" xml:space="preserve">
     <value>語</value>
